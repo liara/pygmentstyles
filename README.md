@@ -1,6 +1,10 @@
 # Some additional pygments
 
-Generated with [vim2pygments](https://github.com/honza/vim2pygments)
+Generated with [vim2pygments](https://github.com/honza/vim2pygments).
+
+```
+$python vimpygments.py codeschool.vim > codeschool.py
+```
 
 ### Usage
 
