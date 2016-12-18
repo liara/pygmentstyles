@@ -3,7 +3,7 @@
 Generated with [vim2pygments](https://github.com/honza/vim2pygments).
 
 ```
-$python vimpygments.py codeschool.vim > codeschool.py
+$ python vimpygments.py codeschool.vim > codeschool.py
 ```
 
 ### Usage
